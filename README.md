@@ -23,3 +23,6 @@ This project focuses on detecting fraudulent Bitcoin transactions by combining *
 - Jupyter Notebook
 
 ---
+
+## Dataset Link
+https://www.kaggle.com/datasets/ellipticco/elliptic-data-set?utm_source=chatgpt.com
