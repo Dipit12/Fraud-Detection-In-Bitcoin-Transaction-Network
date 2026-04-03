@@ -24,5 +24,14 @@ This project focuses on detecting fraudulent Bitcoin transactions by combining *
 
 ---
 
-## Dataset Link
-https://www.kaggle.com/datasets/ellipticco/elliptic-data-set?utm_source=chatgpt.com
+## 📊 Results
+- **Accuracy:** 98%  
+- **F1-Score:** 0.84  
+
+The integration of **Topological Data Analysis (TDA)** with **Graph Attention Networks (GAT)** significantly improves the model’s ability to detect fraudulent transactions, especially in highly imbalanced data scenarios.  
+Topological features help capture hidden structural patterns such as loops and cycles, which are often indicative of coordinated fraud activity.
+
+---
+
+## 📂 Dataset
+[Elliptic Bitcoin Dataset on Kaggle](https://www.kaggle.com/datasets/ellipticco/elliptic-data-set?utm_source=chatgpt.com)
